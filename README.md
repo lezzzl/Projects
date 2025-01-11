@@ -1,2 +1,2 @@
 # Projects
-Train projects to gain skills
+Training projects to gain skills
