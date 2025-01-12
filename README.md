@@ -1,2 +1,3 @@
 # Projects
-tg @so_eazzy
+Telegram
+📲 [@so_eazzy](https://t.me/so_eazzy)
