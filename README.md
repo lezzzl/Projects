@@ -1,5 +1,5 @@
 # Projects
-![Telegram](https://img.shields.io/badge/Telegram-@so__eazzy-blue?logo=telegram&style=flat)
+![Telegram](https://img.shields.io/badge/Telegram-https://t.me/so__eazzy-blue?logo=telegram&style=flat)
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science"
 
