@@ -1,10 +1,3 @@
-# Projects
-<a href="https://t.me/so__eazzy">
-  <img src="https://img.shields.io/badge/Telegram-@so__eazzy-blue?logo=telegram&style=flat" alt="Telegram">
-</a>
-
-[Tg](https://t.me/so_eazzy)
-
 | Название проекта | Описание | Используемые библиотеки |
 | :---------------------- | :---------------------- | :---------------------- |
 | [Прогнозирование оттока клиентов оператора связи](telecom_clients) | Разработка модели для предсказания оттока клиентов телеком-оператора с целью своевременного предложения индивидуальных условий и снижения потерь абонентов. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn.model_selection*, *sklearn.preprocessing*, *sklearn.metrics*, *catboost*, *scipy* |
